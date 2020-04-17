@@ -686,5 +686,5 @@ URL: {{URL}}/api/v1/tours/5c88fa8cf4afda39709c2955/reviews
 
 
 ---
-[Back to top](#natours-nodejs--jonas)
-> Made with &#9829; by [thedevsaddam](https://github.com/thedevsaddam) | Generated at: 2020-04-14 16:31:57 by [docgen](https://github.com/thedevsaddam/docgen)
+[Back to top](#natours-nodejs--Rajan)
+> Made with ; by [Rajan](https://github.com/rajan-savaliya) | Generated at: 2020-04-14 16:31:57 by [docgen](https://github.com/rajan-savaliya)

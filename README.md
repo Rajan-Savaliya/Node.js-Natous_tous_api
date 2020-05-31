@@ -16,7 +16,7 @@ this is jonsa couse base Natour api
   * [Update cueernt User {{Auth Restrict}} {{Not user-to-admin}}{{Not password}}](#6-update-cueernt-user-{{auth-restrict}}-{{not-user-to-admin}}{{not-password}})
   * [Delete me {{ Auth Restrict}}](#7-delete-me-{{-auth-restrict}})
 
-* [Tours 🏖🏕🚓🚓🚗🚗🚌🚌🌈🌈🌿🌿](#tours-🏖🏕🚓🚓🚗🚗🚌🚌🌈🌈🌿🌿)
+* [Tours 🏖🏕🚓🚓🚗🚗🚌🚌🌈🌈🌿🌿](#tours-🏖🏕🚗🚗🚌🚌🌈🌈🌿🌿)
 
   * [Refrect get all tours](#1-refrect-get-all-tours)
   * [GET All Tours {Any}](#2-get-all-tours-{any})
